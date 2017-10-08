@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+c:\users\apofis\desktop\порактика\c++ ess\chap1\lab2\lab2\lab2.cpp(10): warning C4305: инициализация: усечение из "double" в "float"
+  Lab2.vcxproj -> C:\Users\Apofis\Desktop\Порактика\C++ Ess\Chap1\Lab2\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\Apofis\Desktop\Порактика\C++ Ess\Chap1\Lab2\Debug\Lab2.pdb (Partial PDB)
