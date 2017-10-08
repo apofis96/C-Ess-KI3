@@ -1,0 +1,5 @@
+﻿  Lab1742.cpp
+c:\users\apofis\desktop\порактика\c++ ess\chap1\lab 1.7.4 (2)\lab 1.7.4 (2)\lab1742.cpp(14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\apofis\desktop\порактика\c++ ess\chap1\lab 1.7.4 (2)\lab 1.7.4 (2)\lab1742.cpp(15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Lab 1.7.4 (2).vcxproj -> C:\Users\Apofis\Desktop\Порактика\C++ Ess\Chap1\Lab 1.7.4 (2)\Debug\Lab 1.7.4 (2).exe
+  Lab 1.7.4 (2).vcxproj -> C:\Users\Apofis\Desktop\Порактика\C++ Ess\Chap1\Lab 1.7.4 (2)\Debug\Lab 1.7.4 (2).pdb (Partial PDB)
