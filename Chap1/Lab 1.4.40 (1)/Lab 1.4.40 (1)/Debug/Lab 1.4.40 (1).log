@@ -1,0 +1,5 @@
+﻿  Lab14401.cpp
+c:\users\apofis\desktop\порактика\c++ ess\chap1\lab 1.4.40 (1)\lab 1.4.40 (1)\lab14401.cpp(6): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\apofis\desktop\порактика\c++ ess\chap1\lab 1.4.40 (1)\lab 1.4.40 (1)\lab14401.cpp(13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab 1.4.40 (1).vcxproj -> C:\Users\Apofis\Desktop\Порактика\C++ Ess\Chap1\Lab 1.4.40 (1)\Debug\Lab 1.4.40 (1).exe
+  Lab 1.4.40 (1).vcxproj -> C:\Users\Apofis\Desktop\Порактика\C++ Ess\Chap1\Lab 1.4.40 (1)\Debug\Lab 1.4.40 (1).pdb (Partial PDB)
