@@ -1,0 +1,8 @@
+﻿  Lab2153.cpp
+d:\pract\c-ess-ki3\chap2\lab 2.1.5 (3)\lab 2.1.5 (3)\lab2153.cpp(22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\pract\c-ess-ki3\chap2\lab 2.1.5 (3)\lab 2.1.5 (3)\lab2153.cpp(23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+d:\pract\c-ess-ki3\chap2\lab 2.1.5 (3)\lab 2.1.5 (3)\lab2153.cpp(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\pract\c-ess-ki3\chap2\lab 2.1.5 (3)\lab 2.1.5 (3)\lab2153.cpp(31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\pract\c-ess-ki3\chap2\lab 2.1.5 (3)\lab 2.1.5 (3)\lab2153.cpp(32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab 2.1.5 (3).vcxproj -> D:\Pract\C-Ess-KI3\Chap2\Lab 2.1.5 (3)\Debug\Lab 2.1.5 (3).exe
+  Lab 2.1.5 (3).vcxproj -> D:\Pract\C-Ess-KI3\Chap2\Lab 2.1.5 (3)\Debug\Lab 2.1.5 (3).pdb (Partial PDB)
