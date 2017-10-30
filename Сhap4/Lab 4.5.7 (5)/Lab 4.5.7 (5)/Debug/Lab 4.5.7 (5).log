@@ -1,0 +1,5 @@
+﻿  Lab 4.5.7 (5).cpp
+d:\pract\c-ess-ki3\сhap4\lab 4.5.7 (5)\lab 4.5.7 (5)\lab 4.5.7 (5).cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+d:\pract\c-ess-ki3\сhap4\lab 4.5.7 (5)\lab 4.5.7 (5)\lab 4.5.7 (5).cpp(41): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\pract\c-ess-ki3\сhap4\lab 4.5.7 (5)\lab 4.5.7 (5)\lab 4.5.7 (5).cpp(59): warning C4715: Reg: значение возвращается не при всех путях выполнения
+  Lab 4.5.7 (5).vcxproj -> D:\Pract\C-Ess-KI3\Сhap4\Lab 4.5.7 (5)\Debug\Lab 4.5.7 (5).exe
