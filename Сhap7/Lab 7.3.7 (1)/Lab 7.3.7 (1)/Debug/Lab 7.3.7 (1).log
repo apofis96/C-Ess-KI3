@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Lab 7.3.7 (1).cpp
+d:\pract\c-ess-ki3\сhap7\lab 7.3.7 (1)\lab 7.3.7 (1)\lab 7.3.7 (1).cpp(53): warning C4101: a: неиспользованная локальная переменная
+d:\pract\c-ess-ki3\сhap7\lab 7.3.7 (1)\lab 7.3.7 (1)\lab 7.3.7 (1).cpp(53): warning C4101: b: неиспользованная локальная переменная
+d:\pract\c-ess-ki3\сhap7\lab 7.3.7 (1)\lab 7.3.7 (1)\lab 7.3.7 (1).cpp(53): warning C4101: r: неиспользованная локальная переменная
+  Lab 7.3.7 (1).vcxproj -> D:\Pract\C-Ess-KI3\Сhap7\Lab 7.3.7 (1)\Debug\Lab 7.3.7 (1).exe
